@@ -334,7 +334,7 @@ GROUP BY estado;
 -- EXERCICI 2
 
 CREATE TABLE products (
-	id VARCHAR(15) PRIMARY KEY,
+	id INT PRIMARY KEY,
     product_name VARCHAR(255),
     price DECIMAL(10,2),
     colour VARCHAR(20),
@@ -368,8 +368,15 @@ FROM transactions t,
 JSON_TABLE(
     CONCAT('[',t.product_ids, ']'),
     '$[*]'
-    COLUMNS (product_id VARCHAR(5) PATH '$')
+    COLUMNS (product_id INT PATH '$')
 ) pi;
+
+ALTER TABLE op_products
+ADD PRIMARY KEY (transaction_id, product_id),
+ADD CONSTRAINT fk_transactions
+    FOREIGN KEY (transaction_id) REFERENCES transactions(id),
+ADD CONSTRAINT fk_products
+    FOREIGN KEY (product_id) REFERENCES products(id);
 
 SELECT product_id, COUNT(product_id) AS total_vendido
 FROM op_products
