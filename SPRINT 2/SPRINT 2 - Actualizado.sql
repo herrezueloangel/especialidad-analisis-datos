@@ -138,7 +138,6 @@ FROM credit_card;
 CREATE DATABASE transactions2;
 USE transactions2;
 
-
 CREATE TABLE transactions (
     id VARCHAR(255) PRIMARY KEY,
     card_id VARCHAR(15),
@@ -151,7 +150,6 @@ CREATE TABLE transactions (
     lat FLOAT,
     longitude FLOAT
 );
-
 
 CREATE TABLE companies (
     company_id VARCHAR(15) PRIMARY KEY,
