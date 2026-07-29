@@ -1,0 +1,229 @@
+comunidad,año,poblacion
+Andalucía,2025,8676713
+Andalucía,2024,8631862
+Andalucía,2023,8584147
+Andalucía,2022,8511167
+Andalucía,2021,8484804
+Andalucía,2020,8461039
+Andalucía,2019,8412222
+Andalucía,2018,8396464
+Andalucía,2017,8394017
+Andalucía,2016,8392046
+Andalucía,2015,8388994
+Andalucía,2014,8381239
+Aragón,2025,1364621
+Aragón,2024,1351591
+Aragón,2023,1341289
+Aragón,2022,1328215
+Aragón,2021,1331938
+Aragón,2020,1330592
+Aragón,2019,1320694
+Aragón,2018,1313493
+Aragón,2017,1315411
+Aragón,2016,1318042
+Aragón,2015,1325600
+Aragón,2014,1330713
+Asturias,2025,1015128
+Asturias,2024,1009599
+Asturias,2023,1006060
+Asturias,2022,1004960
+Asturias,2021,1012117
+Asturias,2020,1018053
+Asturias,2019,1021469
+Asturias,2018,1027091
+Asturias,2017,1033550
+Asturias,2016,1040407
+Asturias,2015,1049328
+Asturias,2014,1058560
+Baleares,2025,1249844
+Baleares,2024,1231768
+Baleares,2023,1209906
+Baleares,2022,1187043
+Baleares,2021,1183415
+Baleares,2020,1176816
+Baleares,2019,1157928
+Baleares,2018,1141233
+Baleares,2017,1128492
+Baleares,2016,1117353
+Baleares,2015,1111002
+Baleares,2014,1106617
+Canarias,2025,2258866
+Canarias,2024,2238754
+Canarias,2023,2213016
+Canarias,2022,2185607
+Canarias,2021,2178924
+Canarias,2020,2176240
+Canarias,2019,2153316
+Canarias,2018,2131581
+Canarias,2017,2115233
+Canarias,2016,2103436
+Canarias,2015,2101319
+Canarias,2014,2098155
+Cantabria,2025,593623
+Cantabria,2024,590851
+Cantabria,2023,588387
+Cantabria,2022,585450
+Cantabria,2021,584708
+Cantabria,2020,583011
+Cantabria,2019,581989
+Cantabria,2018,581533
+Cantabria,2017,581421
+Cantabria,2016,582494
+Cantabria,2015,585184
+Cantabria,2014,587491
+Castilla y León,2025,2401221
+Castilla y León,2024,2391682
+Castilla y León,2023,2383703
+Castilla y León,2022,2375583
+Castilla y León,2021,2385223
+Castilla y León,2020,2398976
+Castilla y León,2019,2405568
+Castilla y León,2018,2417013
+Castilla y León,2017,2433535
+Castilla y León,2016,2452721
+Castilla y León,2015,2475697
+Castilla y León,2014,2493604
+Castilla-La Mancha,2025,2126378
+Castilla-La Mancha,2024,2104433
+Castilla-La Mancha,2023,2084086
+Castilla-La Mancha,2022,2058278
+Castilla-La Mancha,2021,2052505
+Castilla-La Mancha,2020,2047969
+Castilla-La Mancha,2019,2036777
+Castilla-La Mancha,2018,2034409
+Castilla-La Mancha,2017,2041422
+Castilla-La Mancha,2016,2049336
+Castilla-La Mancha,2015,2062615
+Castilla-La Mancha,2014,2074760
+Cataluña,2025,8124126
+Cataluña,2024,8012231
+Cataluña,2023,7901963
+Cataluña,2022,7761823
+Cataluña,2021,7749896
+Cataluña,2020,7720323
+Cataluña,2019,7624625
+Cataluña,2018,7539364
+Cataluña,2017,7480778
+Cataluña,2016,7440692
+Cataluña,2015,7420890
+Cataluña,2014,7432833
+Comunidad Valenciana,2025,5425182
+Comunidad Valenciana,2024,5319285
+Comunidad Valenciana,2023,5216195
+Comunidad Valenciana,2022,5108116
+Comunidad Valenciana,2021,5067911
+Comunidad Valenciana,2020,5046482
+Comunidad Valenciana,2019,4989308
+Comunidad Valenciana,2018,4958584
+Comunidad Valenciana,2017,4943821
+Comunidad Valenciana,2016,4939888
+Comunidad Valenciana,2015,4945092
+Comunidad Valenciana,2014,4960213
+Extremadura,2025,1053345
+Extremadura,2024,1054681
+Extremadura,2023,1054306
+Extremadura,2022,1056808
+Extremadura,2021,1061636
+Extremadura,2020,1064970
+Extremadura,2019,1067925
+Extremadura,2018,1072721
+Extremadura,2017,1079108
+Extremadura,2016,1086153
+Extremadura,2015,1092217
+Extremadura,2014,1096708
+Galicia,2025,2714741
+Galicia,2024,2705833
+Galicia,2023,2699424
+Galicia,2022,2692825
+Galicia,2021,2698177
+Galicia,2020,2702605
+Galicia,2019,2700210
+Galicia,2018,2703048
+Galicia,2017,2708955
+Galicia,2016,2719095
+Galicia,2015,2732801
+Galicia,2014,2745817
+Madrid,2025,7113886
+Madrid,2024,7009268
+Madrid,2023,6871903
+Madrid,2022,6743254
+Madrid,2021,6726640
+Madrid,2020,6720310
+Madrid,2019,6618078
+Madrid,2018,6529923
+Madrid,2017,6459297
+Madrid,2016,6411466
+Madrid,2015,6375737
+Madrid,2014,6372553
+Murcia,2025,1586989
+Murcia,2024,1568492
+Murcia,2023,1551692
+Murcia,2022,1529658
+Murcia,2021,1518279
+Murcia,2020,1509077
+Murcia,2019,1491312
+Murcia,2018,1478718
+Murcia,2017,1475275
+Murcia,2016,1468367
+Murcia,2015,1465195
+Murcia,2014,1462734
+Navarra,2025,683854
+Navarra,2024,678333
+Navarra,2023,672155
+Navarra,2022,664514
+Navarra,2021,662032
+Navarra,2020,659907
+Navarra,2019,652797
+Navarra,2018,646340
+Navarra,2017,642075
+Navarra,2016,638922
+Navarra,2015,637317
+Navarra,2014,637099
+País Vasco,2025,2242343
+País Vasco,2024,2227684
+País Vasco,2023,2216302
+País Vasco,2022,2205826
+País Vasco,2021,2212628
+País Vasco,2020,2211917
+País Vasco,2019,2197306
+País Vasco,2018,2187254
+País Vasco,2017,2179944
+País Vasco,2016,2174426
+País Vasco,2015,2172707
+País Vasco,2014,2172247
+La Rioja,2025,326803
+La Rioja,2024,324184
+La Rioja,2023,322282
+La Rioja,2022,319617
+La Rioja,2021,319444
+La Rioja,2020,318703
+La Rioja,2019,315967
+La Rioja,2018,314890
+La Rioja,2017,314136
+La Rioja,2016,314025
+La Rioja,2015,314457
+La Rioja,2014,315736
+Ceuta,2025,83567
+Ceuta,2024,83179
+Ceuta,2023,83052
+Ceuta,2022,83051
+Ceuta,2021,84071
+Ceuta,2020,84502
+Ceuta,2019,85087
+Ceuta,2018,85327
+Ceuta,2017,85005
+Ceuta,2016,84558
+Ceuta,2015,84561
+Ceuta,2014,84562
+Melilla,2025,87067
+Melilla,2024,85985
+Melilla,2023,85493
+Melilla,2022,84932
+Melilla,2021,86450
+Melilla,2020,86558
+Melilla,2019,86373
+Melilla,2018,86084
+Melilla,2017,85918
+Melilla,2016,85457
+Melilla,2015,85009
+Melilla,2014,84103

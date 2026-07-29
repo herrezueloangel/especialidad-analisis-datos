@@ -1,0 +1,7 @@
+﻿Análisis,Principal resultado
+Frecuencia léxica,"Predominio de términos relacionados con inmigración, política e identidad."
+Sentimiento,Predominio de comentarios con polaridad negativa o muy polarizada.
+Discurso de odio,Presencia recurrente de vocabulario despectivo e insultos.
+Bigramas,"Asociaciones frecuentes entre inmigración, delincuencia, ayudas y fronteras."
+Trigramas,Expresiones repetidas que reflejan marcos narrativos y consignas del debate.
+BERTopic,"Identificación automática de temas relacionados con inmigración, política, islam, LGTBI, delincuencia, ayudas sociales y educación."

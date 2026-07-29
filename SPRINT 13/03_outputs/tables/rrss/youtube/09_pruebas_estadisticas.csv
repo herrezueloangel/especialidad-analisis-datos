@@ -1,0 +1,5 @@
+﻿comparacion,n_comentarios,chi2,p_valor,grados_libertad,v_cramer,significativa,fuerza_asociacion
+Sentimiento vs Xenofobia,49287,1439.552,1.5867028507607607e-305,8,0.121,Sí,débil
+Sentimiento vs Xenofobia (sin sin_mencion),3664,51.504,2.346145085731958e-09,6,0.084,Sí,muy débil
+Sentimiento vs LGTBIfobia,49287,439.883,5.436834929828298e-90,8,0.067,Sí,muy débil
+Sentimiento vs LGTBIfobia (sin sin_mencion),2831,70.826,2.7683217154271647e-13,6,0.112,Sí,débil

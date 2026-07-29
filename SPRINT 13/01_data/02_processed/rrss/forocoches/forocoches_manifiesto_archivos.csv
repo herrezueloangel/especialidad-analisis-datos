@@ -1,0 +1,8 @@
+﻿archivo,ruta,tamano_bytes,sha256
+comentarios_brutos,C:\Users\herre\OneDrive\Desktop\IT ACADEMY\ESPECIALIDAD\EJERCICICIOS\SPRINT 13\RRSS\FOROCOCHES\RAW\forocoches_comentarios_brutos.csv,5882688,3dac94929a7a86a44747d70cd2c435b5f9d247c36f22be8ed892658f1d72e98a
+catalogo_candidatos,C:\Users\herre\OneDrive\Desktop\IT ACADEMY\ESPECIALIDAD\EJERCICICIOS\SPRINT 13\RRSS\FOROCOCHES\RAW\forocoches_catalogo_candidatos.csv,26488,02cd99c11f9e054c8f47aa32b9c466a0137b67543cec420a2bb950e798cce729
+comentarios_anuales,C:\Users\herre\OneDrive\Desktop\IT ACADEMY\ESPECIALIDAD\EJERCICICIOS\SPRINT 13\RRSS\FOROCOCHES\PROCESADOS\forocoches_comentarios_anuales.csv,5482073,2b36453065e9449499119c7c5a46cc075a21f022e061e107996856eb46816188
+hilos_validos,C:\Users\herre\OneDrive\Desktop\IT ACADEMY\ESPECIALIDAD\EJERCICICIOS\SPRINT 13\RRSS\FOROCOCHES\PROCESADOS\forocoches_hilos_validos.csv,22916,dba54541a31677c736fecc4e9fd775bd0cd960552477ab6a0a15b2b4dc63e717
+cobertura,C:\Users\herre\OneDrive\Desktop\IT ACADEMY\ESPECIALIDAD\EJERCICICIOS\SPRINT 13\RRSS\FOROCOCHES\PROCESADOS\forocoches_cobertura_estratos.csv,3317,1299934053d15ac1e70b5f97e4093ac2e1e4ea74b340d1d0370f5f4a1ce04a96
+diagnosticos,C:\Users\herre\OneDrive\Desktop\IT ACADEMY\ESPECIALIDAD\EJERCICICIOS\SPRINT 13\RRSS\FOROCOCHES\PROCESADOS\forocoches_diagnosticos_extraccion.csv,8897,8cb3c5fdefcea875ba5a9387f6be19e0465d82b07ebf69eeacaa010d013a5be7
+incidencias,C:\Users\herre\OneDrive\Desktop\IT ACADEMY\ESPECIALIDAD\EJERCICICIOS\SPRINT 13\RRSS\FOROCOCHES\PROCESADOS\forocoches_incidencias_extraccion.csv,2330,6e539b1cfabc85f668fedb44fa155749638d8f603ba737369377fd0d8ee49589

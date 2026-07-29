@@ -1,0 +1,304 @@
+﻿year_dataset,Topic,Name,documentos,total_documentos_anio,porcentaje_corpus,etiqueta
+2015,0,0_lgtbi_igualdad_ley_diversidad,71,1900,3.74,"Derechos, igualdad y diversidad"
+2015,1,1_fútbol_jankto_futbolista_jugador,27,1900,1.42,Diversidad sexual en el fútbol
+2015,2,2_orgullo_00_orgullo gay_20,52,1900,2.74,Orgullo gay y celebraciones
+2015,3,3_homosexualidad_cañizares_alcalá_obispado,36,1900,1.89,Iglesia y homosexualidad
+2015,4,4_orgullo_lgtbi_orgullo lgtbi_lgtbiq,4,1900,0.21,Orgullo y colectivo LGTBI
+2015,5,5_acusado_víctima_hechos_prisión,24,1900,1.26,Casos judiciales y víctimas
+2015,6,6_película_personajes_serie_cine,44,1900,2.32,Representación en cine y series
+2015,8,8_rusia_propaganda_ruso_rusa,37,1900,1.95,Políticas anti-LGTBI en Rusia
+2015,9,9_si_bisexuales_mujeres_homosexuales,32,1900,1.68,Bisexualidad y mujeres
+2015,10,10_víctimas_detenido_agentes_policía,19,1900,1.0,Policía y detenciones
+2015,11,11_matrimonio_mismo sexo_parejas_sexo,87,1900,4.58,Matrimonio entre personas del mismo sexo
+2015,12,12_mateen_orlando_club_tiroteo,26,1900,1.37,Atentado de Orlando
+2015,13,13_salud_transexuales_personas_transexualidad,15,1900,0.79,Salud y personas trans
+2015,14,14_odio_delitos_agresiones_delitos odio,13,1900,0.68,Delitos de odio y agresiones
+2015,15,15_carmen_programa_actriz_veneno,21,1900,1.11,15_carmen_programa_actriz_veneno
+2015,16,16_bandera_ayuntamiento_orgullo_día,50,1900,2.63,"Orgullo, banderas e instituciones"
+2015,17,17_lgtbi_barcelona_lona_vox,2,1900,0.11,17_lgtbi_barcelona_lona_vox
+2015,18,18_girona_gay_rock_cine,16,1900,0.84,18_girona_gay_rock_cine
+2015,19,19_barcelona_psc_collboni_partido,24,1900,1.26,19_barcelona_psc_collboni_partido
+2015,20,20_premio_cine_festival_premios,5,1900,0.26,20_premio_cine_festival_premios
+2015,21,21_matrimonio_supremo_florida_tribunal,88,1900,4.63,Matrimonio igualitario en Estados Unidos
+2015,22,22_taiwán_matrimonio_mismo sexo_asia,11,1900,0.58,Matrimonio igualitario en Taiwán
+2015,23,23_ejército_trump_obama_transgénero,31,1900,1.63,23_ejército_trump_obama_transgénero
+2015,24,24_atletas_atletismo_transgénero_competir,3,1900,0.16,Personas trans en el deporte
+2015,25,25_padrino_salinas_iglesia_obispado,82,1900,4.32,Iglesia y controversias religiosas
+2015,26,26_nombre_cambio nombre_cambio_niña,14,1900,0.74,Cambio de nombre e infancia trans
+2015,27,27_transexual_policía_paloma_mujer,20,1900,1.05,27_transexual_policía_paloma_mujer
+2015,28,28_especies_comportamiento_machos_individuos,2,1900,0.11,28_especies_comportamiento_machos_individuos
+2015,29,29_sangre_donar_donar sangre_homosexuales,60,1900,3.16,Donación de sangre y homosexualidad
+2015,30,30_uganda_museveni_homosexualidad_ley,23,1900,1.21,30_uganda_museveni_homosexualidad_ley
+2015,31,31_agresión_pareja_observatorio_pareja gay,19,1900,1.0,31_agresión_pareja_observatorio_pareja gay
+2015,32,32_iglesia_vaticano_papa_sacerdote,61,1900,3.21,Iglesia y Vaticano
+2015,33,33_protocolo_educativa_centros_identidad,15,1900,0.79,33_protocolo_educativa_centros_identidad
+2015,34,34_turismo_fitur_destino_oferta,22,1900,1.16,34_turismo_fitur_destino_oferta
+2015,35,35_vox_pp_lgtbi_investidura,1,1900,0.05,35_vox_pp_lgtbi_investidura
+2015,36,36_literatura_novela_libro_stuart,9,1900,0.47,36_literatura_novela_libro_stuart
+2015,37,37_trabajo_personas_laboral_empresas,5,1900,0.26,37_trabajo_personas_laboral_empresas
+2015,39,39_marruecos_marroquí_rabat_marroquíes,29,1900,1.53,39_marruecos_marroquí_rabat_marroquíes
+2015,40,40_miss_jenner_caitlyn_ángela,36,1900,1.89,40_miss_jenner_caitlyn_ángela
+2015,41,41_jerusalén_israelí_israel_marcha,27,1900,1.42,41_jerusalén_israelí_israel_marcha
+2015,42,42_estambul_turca_turquía_policía,22,1900,1.16,42_estambul_turca_turquía_policía
+2015,44,44_agresión_transexual_policía_odio,3,1900,0.16,44_agresión_transexual_policía_odio
+2015,45,45_bendición_iglesia_papa_bendiciones,3,1900,0.16,45_bendición_iglesia_papa_bendiciones
+2015,48,48_reproducción_asistida_reproducción asistida_mujeres,32,1900,1.68,48_reproducción_asistida_reproducción asistida_mujeres
+2015,49,49_mr gay_mr_gay_gay pride,13,1900,0.68,49_mr gay_mr_gay_gay pride
+2015,50,50_circuit_barcelona_festival_circuit festival,14,1900,0.74,50_circuit_barcelona_festival_circuit festival
+2015,53,53_italia_uniones_senado_proyecto,11,1900,0.58,53_italia_uniones_senado_proyecto
+2015,56,56_nigeria_asilo_país_camerún,20,1900,1.05,56_nigeria_asilo_país_camerún
+2015,59,59_itziar_letonia_castro_actriz,1,1900,0.05,59_itziar_letonia_castro_actriz
+2015,60,60_ibiza_40 aniversario_carnaval_calles centro,7,1900,0.37,60_ibiza_40 aniversario_carnaval_calles centro
+2015,63,63_irlanda_matrimonio_referéndum_dublín,50,1900,2.63,Referéndum de matrimonio en Irlanda
+2015,64,64_acoso_ciento_jóvenes_escolar,18,1900,0.95,64_acoso_ciento_jóvenes_escolar
+2015,65,65_metro_agresión_barcelona_guardia,1,1900,0.05,65_metro_agresión_barcelona_guardia
+2015,66,66_trans_transgénero_mujer_belarra,4,1900,0.21,66_trans_transgénero_mujer_belarra
+2015,67,67_papa_francisco_pontífice_plasencia,18,1900,0.95,67_papa_francisco_pontífice_plasencia
+2015,69,69_brunéi_sultán_lapidación_adulterio,1,1900,0.05,69_brunéi_sultán_lapidación_adulterio
+2015,70,70_00_concierto_100_30,1,1900,0.05,70_00_concierto_100_30
+2015,71,71_pecado_papa_francisco_delito,2,1900,0.11,71_pecado_papa_francisco_delito
+2015,74,74_homosexualidad_terapia_libro_em,11,1900,0.58,74_homosexualidad_terapia_libro_em
+2015,75,75_actor_contado_silvestre_pueblo,4,1900,0.21,75_actor_contado_silvestre_pueblo
+2015,78,78_gay games_games_valència_2026,9,1900,0.47,78_gay games_games_valència_2026
+2015,80,80_españoles_iglesias_rodó_países,3,1900,0.16,80_españoles_iglesias_rodó_países
+2015,81,81_paloma río_río_gimnasia_paloma,1,1900,0.05,81_paloma río_río_gimnasia_paloma
+2015,82,82_modelo_secret_marca_victoria,4,1900,0.21,82_modelo_secret_marca_victoria
+2015,83,83_madrid_orgullo_cogam_ciudadanos,3,1900,0.16,83_madrid_orgullo_cogam_ciudadanos
+2016,0,0_lgtbi_igualdad_ley_diversidad,149,2996,4.97,"Derechos, igualdad y diversidad"
+2016,1,1_fútbol_jankto_futbolista_jugador,109,2996,3.64,Diversidad sexual en el fútbol
+2016,2,2_orgullo_00_orgullo gay_20,64,2996,2.14,Orgullo gay y celebraciones
+2016,3,3_homosexualidad_cañizares_alcalá_obispado,148,2996,4.94,Iglesia y homosexualidad
+2016,4,4_orgullo_lgtbi_orgullo lgtbi_lgtbiq,20,2996,0.67,Orgullo y colectivo LGTBI
+2016,5,5_acusado_víctima_hechos_prisión,71,2996,2.37,Casos judiciales y víctimas
+2016,6,6_película_personajes_serie_cine,54,2996,1.8,Representación en cine y series
+2016,7,7_bandera_bandera lgtbi_ayuntamiento_vox,3,2996,0.1,Bandera LGTBI y ayuntamientos
+2016,8,8_rusia_propaganda_ruso_rusa,8,2996,0.27,Políticas anti-LGTBI en Rusia
+2016,9,9_si_bisexuales_mujeres_homosexuales,59,2996,1.97,Bisexualidad y mujeres
+2016,10,10_víctimas_detenido_agentes_policía,54,2996,1.8,Policía y detenciones
+2016,11,11_matrimonio_mismo sexo_parejas_sexo,60,2996,2.0,Matrimonio entre personas del mismo sexo
+2016,12,12_mateen_orlando_club_tiroteo,128,2996,4.27,Atentado de Orlando
+2016,13,13_salud_transexuales_personas_transexualidad,69,2996,2.3,Salud y personas trans
+2016,14,14_odio_delitos_agresiones_delitos odio,17,2996,0.57,Delitos de odio y agresiones
+2016,15,15_carmen_programa_actriz_veneno,26,2996,0.87,15_carmen_programa_actriz_veneno
+2016,16,16_bandera_ayuntamiento_orgullo_día,40,2996,1.34,"Orgullo, banderas e instituciones"
+2016,17,17_lgtbi_barcelona_lona_vox,6,2996,0.2,17_lgtbi_barcelona_lona_vox
+2016,18,18_girona_gay_rock_cine,18,2996,0.6,18_girona_gay_rock_cine
+2016,19,19_barcelona_psc_collboni_partido,9,2996,0.3,19_barcelona_psc_collboni_partido
+2016,20,20_premio_cine_festival_premios,23,2996,0.77,20_premio_cine_festival_premios
+2016,21,21_matrimonio_supremo_florida_tribunal,24,2996,0.8,Matrimonio igualitario en Estados Unidos
+2016,22,22_taiwán_matrimonio_mismo sexo_asia,20,2996,0.67,Matrimonio igualitario en Taiwán
+2016,23,23_ejército_trump_obama_transgénero,18,2996,0.6,23_ejército_trump_obama_transgénero
+2016,24,24_atletas_atletismo_transgénero_competir,13,2996,0.43,Personas trans en el deporte
+2016,25,25_padrino_salinas_iglesia_obispado,21,2996,0.7,Iglesia y controversias religiosas
+2016,26,26_nombre_cambio nombre_cambio_niña,58,2996,1.94,Cambio de nombre e infancia trans
+2016,27,27_transexual_policía_paloma_mujer,12,2996,0.4,27_transexual_policía_paloma_mujer
+2016,28,28_especies_comportamiento_machos_individuos,11,2996,0.37,28_especies_comportamiento_machos_individuos
+2016,29,29_sangre_donar_donar sangre_homosexuales,26,2996,0.87,Donación de sangre y homosexualidad
+2016,30,30_uganda_museveni_homosexualidad_ley,8,2996,0.27,30_uganda_museveni_homosexualidad_ley
+2016,31,31_agresión_pareja_observatorio_pareja gay,26,2996,0.87,31_agresión_pareja_observatorio_pareja gay
+2016,32,32_iglesia_vaticano_papa_sacerdote,21,2996,0.7,Iglesia y Vaticano
+2016,33,33_protocolo_educativa_centros_identidad,49,2996,1.64,33_protocolo_educativa_centros_identidad
+2016,34,34_turismo_fitur_destino_oferta,31,2996,1.03,34_turismo_fitur_destino_oferta
+2016,35,35_vox_pp_lgtbi_investidura,2,2996,0.07,35_vox_pp_lgtbi_investidura
+2016,36,36_literatura_novela_libro_stuart,26,2996,0.87,36_literatura_novela_libro_stuart
+2016,37,37_trabajo_personas_laboral_empresas,6,2996,0.2,37_trabajo_personas_laboral_empresas
+2016,38,38_psoe_lgtbi_derechos_vox,1,2996,0.03,38_psoe_lgtbi_derechos_vox
+2016,39,39_marruecos_marroquí_rabat_marroquíes,44,2996,1.47,39_marruecos_marroquí_rabat_marroquíes
+2016,40,40_miss_jenner_caitlyn_ángela,24,2996,0.8,40_miss_jenner_caitlyn_ángela
+2016,41,41_jerusalén_israelí_israel_marcha,4,2996,0.13,41_jerusalén_israelí_israel_marcha
+2016,42,42_estambul_turca_turquía_policía,37,2996,1.23,42_estambul_turca_turquía_policía
+2016,43,43_madurez_menores_registro_tribunal,7,2996,0.23,43_madurez_menores_registro_tribunal
+2016,44,44_agresión_transexual_policía_odio,35,2996,1.17,44_agresión_transexual_policía_odio
+2016,45,45_bendición_iglesia_papa_bendiciones,12,2996,0.4,45_bendición_iglesia_papa_bendiciones
+2016,46,46_vox_cogam_fiscalía_podemos,5,2996,0.17,46_vox_cogam_fiscalía_podemos
+2016,48,48_reproducción_asistida_reproducción asistida_mujeres,17,2996,0.57,48_reproducción_asistida_reproducción asistida_mujeres
+2016,49,49_mr gay_mr_gay_gay pride,25,2996,0.83,49_mr gay_mr_gay_gay pride
+2016,50,50_circuit_barcelona_festival_circuit festival,24,2996,0.8,50_circuit_barcelona_festival_circuit festival
+2016,51,51_ley_madrid_ayuso_trans,1,2996,0.03,51_ley_madrid_ayuso_trans
+2016,53,53_italia_uniones_senado_proyecto,46,2996,1.54,53_italia_uniones_senado_proyecto
+2016,55,55_ayuso_madrid_pp_leyes,1,2996,0.03,55_ayuso_madrid_pp_leyes
+2016,56,56_nigeria_asilo_país_camerún,18,2996,0.6,56_nigeria_asilo_país_camerún
+2016,57,57_burriana_libros_biblioteca_censura,2,2996,0.07,57_burriana_libros_biblioteca_censura
+2016,58,58_almodóvar_cannes_extraña_pedro,1,2996,0.03,58_almodóvar_cannes_extraña_pedro
+2016,59,59_itziar_letonia_castro_actriz,7,2996,0.23,59_itziar_letonia_castro_actriz
+2016,60,60_ibiza_40 aniversario_carnaval_calles centro,13,2996,0.43,60_ibiza_40 aniversario_carnaval_calles centro
+2016,62,62_detenido_yihadistas_yihadista_palmas,1,2996,0.03,62_detenido_yihadistas_yihadista_palmas
+2016,64,64_acoso_ciento_jóvenes_escolar,15,2996,0.5,64_acoso_ciento_jóvenes_escolar
+2016,66,66_trans_transgénero_mujer_belarra,13,2996,0.43,66_trans_transgénero_mujer_belarra
+2016,67,67_papa_francisco_pontífice_plasencia,27,2996,0.9,67_papa_francisco_pontífice_plasencia
+2016,70,70_00_concierto_100_30,1,2996,0.03,70_00_concierto_100_30
+2016,71,71_pecado_papa_francisco_delito,2,2996,0.07,71_pecado_papa_francisco_delito
+2016,72,72_terapias_euros_multa_coach,7,2996,0.23,72_terapias_euros_multa_coach
+2016,74,74_homosexualidad_terapia_libro_em,12,2996,0.4,74_homosexualidad_terapia_libro_em
+2016,75,75_actor_contado_silvestre_pueblo,5,2996,0.17,75_actor_contado_silvestre_pueblo
+2016,76,76_courage_animales_toledo_archidiócesis,26,2996,0.87,76_courage_animales_toledo_archidiócesis
+2016,77,77_bandera_ayuntamiento_lgtbi_arcoíris,3,2996,0.1,77_bandera_ayuntamiento_lgtbi_arcoíris
+2016,78,78_gay games_games_valència_2026,1,2996,0.03,78_gay games_games_valència_2026
+2016,80,80_españoles_iglesias_rodó_países,2,2996,0.07,80_españoles_iglesias_rodó_países
+2016,82,82_modelo_secret_marca_victoria,2,2996,0.07,82_modelo_secret_marca_victoria
+2016,83,83_madrid_orgullo_cogam_ciudadanos,11,2996,0.37,83_madrid_orgullo_cogam_ciudadanos
+2019,0,0_lgtbi_igualdad_ley_diversidad,320,5712,5.6,"Derechos, igualdad y diversidad"
+2019,1,1_fútbol_jankto_futbolista_jugador,99,5712,1.73,Diversidad sexual en el fútbol
+2019,2,2_orgullo_00_orgullo gay_20,175,5712,3.06,Orgullo gay y celebraciones
+2019,3,3_homosexualidad_cañizares_alcalá_obispado,140,5712,2.45,Iglesia y homosexualidad
+2019,4,4_orgullo_lgtbi_orgullo lgtbi_lgtbiq,141,5712,2.47,Orgullo y colectivo LGTBI
+2019,5,5_acusado_víctima_hechos_prisión,120,5712,2.1,Casos judiciales y víctimas
+2019,6,6_película_personajes_serie_cine,89,5712,1.56,Representación en cine y series
+2019,7,7_bandera_bandera lgtbi_ayuntamiento_vox,15,5712,0.26,Bandera LGTBI y ayuntamientos
+2019,8,8_rusia_propaganda_ruso_rusa,49,5712,0.86,Políticas anti-LGTBI en Rusia
+2019,9,9_si_bisexuales_mujeres_homosexuales,81,5712,1.42,Bisexualidad y mujeres
+2019,10,10_víctimas_detenido_agentes_policía,87,5712,1.52,Policía y detenciones
+2019,11,11_matrimonio_mismo sexo_parejas_sexo,36,5712,0.63,Matrimonio entre personas del mismo sexo
+2019,12,12_mateen_orlando_club_tiroteo,32,5712,0.56,Atentado de Orlando
+2019,13,13_salud_transexuales_personas_transexualidad,58,5712,1.02,Salud y personas trans
+2019,14,14_odio_delitos_agresiones_delitos odio,54,5712,0.95,Delitos de odio y agresiones
+2019,15,15_carmen_programa_actriz_veneno,60,5712,1.05,15_carmen_programa_actriz_veneno
+2019,16,16_bandera_ayuntamiento_orgullo_día,48,5712,0.84,"Orgullo, banderas e instituciones"
+2019,17,17_lgtbi_barcelona_lona_vox,71,5712,1.24,17_lgtbi_barcelona_lona_vox
+2019,18,18_girona_gay_rock_cine,33,5712,0.58,18_girona_gay_rock_cine
+2019,19,19_barcelona_psc_collboni_partido,43,5712,0.75,19_barcelona_psc_collboni_partido
+2019,20,20_premio_cine_festival_premios,56,5712,0.98,20_premio_cine_festival_premios
+2019,21,21_matrimonio_supremo_florida_tribunal,3,5712,0.05,Matrimonio igualitario en Estados Unidos
+2019,22,22_taiwán_matrimonio_mismo sexo_asia,91,5712,1.59,Matrimonio igualitario en Taiwán
+2019,23,23_ejército_trump_obama_transgénero,57,5712,1.0,23_ejército_trump_obama_transgénero
+2019,24,24_atletas_atletismo_transgénero_competir,14,5712,0.25,Personas trans en el deporte
+2019,25,25_padrino_salinas_iglesia_obispado,4,5712,0.07,Iglesia y controversias religiosas
+2019,26,26_nombre_cambio nombre_cambio_niña,33,5712,0.58,Cambio de nombre e infancia trans
+2019,27,27_transexual_policía_paloma_mujer,57,5712,1.0,27_transexual_policía_paloma_mujer
+2019,28,28_especies_comportamiento_machos_individuos,35,5712,0.61,28_especies_comportamiento_machos_individuos
+2019,29,29_sangre_donar_donar sangre_homosexuales,19,5712,0.33,Donación de sangre y homosexualidad
+2019,30,30_uganda_museveni_homosexualidad_ley,22,5712,0.39,30_uganda_museveni_homosexualidad_ley
+2019,31,31_agresión_pareja_observatorio_pareja gay,49,5712,0.86,31_agresión_pareja_observatorio_pareja gay
+2019,32,32_iglesia_vaticano_papa_sacerdote,16,5712,0.28,Iglesia y Vaticano
+2019,33,33_protocolo_educativa_centros_identidad,35,5712,0.61,33_protocolo_educativa_centros_identidad
+2019,34,34_turismo_fitur_destino_oferta,26,5712,0.46,34_turismo_fitur_destino_oferta
+2019,35,35_vox_pp_lgtbi_investidura,54,5712,0.95,35_vox_pp_lgtbi_investidura
+2019,36,36_literatura_novela_libro_stuart,37,5712,0.65,36_literatura_novela_libro_stuart
+2019,37,37_trabajo_personas_laboral_empresas,28,5712,0.49,37_trabajo_personas_laboral_empresas
+2019,38,38_psoe_lgtbi_derechos_vox,24,5712,0.42,38_psoe_lgtbi_derechos_vox
+2019,39,39_marruecos_marroquí_rabat_marroquíes,5,5712,0.09,39_marruecos_marroquí_rabat_marroquíes
+2019,40,40_miss_jenner_caitlyn_ángela,12,5712,0.21,40_miss_jenner_caitlyn_ángela
+2019,41,41_jerusalén_israelí_israel_marcha,13,5712,0.23,41_jerusalén_israelí_israel_marcha
+2019,42,42_estambul_turca_turquía_policía,18,5712,0.32,42_estambul_turca_turquía_policía
+2019,43,43_madurez_menores_registro_tribunal,69,5712,1.21,43_madurez_menores_registro_tribunal
+2019,44,44_agresión_transexual_policía_odio,17,5712,0.3,44_agresión_transexual_policía_odio
+2019,45,45_bendición_iglesia_papa_bendiciones,4,5712,0.07,45_bendición_iglesia_papa_bendiciones
+2019,46,46_vox_cogam_fiscalía_podemos,69,5712,1.21,46_vox_cogam_fiscalía_podemos
+2019,47,47_cortes_abogados cristianos_castilla león_cristianos,1,5712,0.02,47_cortes_abogados cristianos_castilla león_cristianos
+2019,48,48_reproducción_asistida_reproducción asistida_mujeres,21,5712,0.37,48_reproducción_asistida_reproducción asistida_mujeres
+2019,49,49_mr gay_mr_gay_gay pride,21,5712,0.37,49_mr gay_mr_gay_gay pride
+2019,50,50_circuit_barcelona_festival_circuit festival,18,5712,0.32,50_circuit_barcelona_festival_circuit festival
+2019,51,51_ley_madrid_ayuso_trans,1,5712,0.02,51_ley_madrid_ayuso_trans
+2019,53,53_italia_uniones_senado_proyecto,2,5712,0.04,53_italia_uniones_senado_proyecto
+2019,54,54_deporte_declaración_declaración institucional_senador,47,5712,0.82,54_deporte_declaración_declaración institucional_senador
+2019,55,55_ayuso_madrid_pp_leyes,25,5712,0.44,55_ayuso_madrid_pp_leyes
+2019,56,56_nigeria_asilo_país_camerún,9,5712,0.16,56_nigeria_asilo_país_camerún
+2019,57,57_burriana_libros_biblioteca_censura,1,5712,0.02,57_burriana_libros_biblioteca_censura
+2019,58,58_almodóvar_cannes_extraña_pedro,1,5712,0.02,58_almodóvar_cannes_extraña_pedro
+2019,59,59_itziar_letonia_castro_actriz,2,5712,0.04,59_itziar_letonia_castro_actriz
+2019,60,60_ibiza_40 aniversario_carnaval_calles centro,26,5712,0.46,60_ibiza_40 aniversario_carnaval_calles centro
+2019,61,61_almeida_bandera_cibeles_bandera lgtbi,26,5712,0.46,61_almeida_bandera_cibeles_bandera lgtbi
+2019,62,62_detenido_yihadistas_yihadista_palmas,33,5712,0.58,62_detenido_yihadistas_yihadista_palmas
+2019,63,63_irlanda_matrimonio_referéndum_dublín,10,5712,0.18,Referéndum de matrimonio en Irlanda
+2019,64,64_acoso_ciento_jóvenes_escolar,14,5712,0.25,64_acoso_ciento_jóvenes_escolar
+2019,65,65_metro_agresión_barcelona_guardia,48,5712,0.84,65_metro_agresión_barcelona_guardia
+2019,66,66_trans_transgénero_mujer_belarra,19,5712,0.33,66_trans_transgénero_mujer_belarra
+2019,68,68_electoral_junta electoral_lona_junta,6,5712,0.11,68_electoral_junta electoral_lona_junta
+2019,69,69_brunéi_sultán_lapidación_adulterio,47,5712,0.82,69_brunéi_sultán_lapidación_adulterio
+2019,70,70_00_concierto_100_30,26,5712,0.46,70_00_concierto_100_30
+2019,71,71_pecado_papa_francisco_delito,3,5712,0.05,71_pecado_papa_francisco_delito
+2019,72,72_terapias_euros_multa_coach,37,5712,0.65,72_terapias_euros_multa_coach
+2019,73,73_duval_sumar_chicago_feminismo,20,5712,0.35,73_duval_sumar_chicago_feminismo
+2019,74,74_homosexualidad_terapia_libro_em,27,5712,0.47,74_homosexualidad_terapia_libro_em
+2019,75,75_actor_contado_silvestre_pueblo,3,5712,0.05,75_actor_contado_silvestre_pueblo
+2019,77,77_bandera_ayuntamiento_lgtbi_arcoíris,14,5712,0.25,77_bandera_ayuntamiento_lgtbi_arcoíris
+2019,78,78_gay games_games_valència_2026,1,5712,0.02,78_gay games_games_valència_2026
+2019,79,79_colegios_vox_información_formativas,50,5712,0.88,79_colegios_vox_información_formativas
+2019,80,80_españoles_iglesias_rodó_países,9,5712,0.16,80_españoles_iglesias_rodó_países
+2019,81,81_paloma río_río_gimnasia_paloma,30,5712,0.53,81_paloma río_río_gimnasia_paloma
+2019,82,82_modelo_secret_marca_victoria,38,5712,0.67,82_modelo_secret_marca_victoria
+2019,83,83_madrid_orgullo_cogam_ciudadanos,28,5712,0.49,83_madrid_orgullo_cogam_ciudadanos
+2023,0,0_lgtbi_igualdad_ley_diversidad,277,7555,3.67,"Derechos, igualdad y diversidad"
+2023,1,1_fútbol_jankto_futbolista_jugador,255,7555,3.38,Diversidad sexual en el fútbol
+2023,2,2_orgullo_00_orgullo gay_20,63,7555,0.83,Orgullo gay y celebraciones
+2023,3,3_homosexualidad_cañizares_alcalá_obispado,24,7555,0.32,Iglesia y homosexualidad
+2023,4,4_orgullo_lgtbi_orgullo lgtbi_lgtbiq,180,7555,2.38,Orgullo y colectivo LGTBI
+2023,5,5_acusado_víctima_hechos_prisión,128,7555,1.69,Casos judiciales y víctimas
+2023,6,6_película_personajes_serie_cine,106,7555,1.4,Representación en cine y series
+2023,7,7_bandera_bandera lgtbi_ayuntamiento_vox,263,7555,3.48,Bandera LGTBI y ayuntamientos
+2023,8,8_rusia_propaganda_ruso_rusa,140,7555,1.85,Políticas anti-LGTBI en Rusia
+2023,9,9_si_bisexuales_mujeres_homosexuales,58,7555,0.77,Bisexualidad y mujeres
+2023,10,10_víctimas_detenido_agentes_policía,43,7555,0.57,Policía y detenciones
+2023,11,11_matrimonio_mismo sexo_parejas_sexo,20,7555,0.26,Matrimonio entre personas del mismo sexo
+2023,12,12_mateen_orlando_club_tiroteo,10,7555,0.13,Atentado de Orlando
+2023,13,13_salud_transexuales_personas_transexualidad,42,7555,0.56,Salud y personas trans
+2023,14,14_odio_delitos_agresiones_delitos odio,93,7555,1.23,Delitos de odio y agresiones
+2023,15,15_carmen_programa_actriz_veneno,53,7555,0.7,15_carmen_programa_actriz_veneno
+2023,16,16_bandera_ayuntamiento_orgullo_día,22,7555,0.29,"Orgullo, banderas e instituciones"
+2023,17,17_lgtbi_barcelona_lona_vox,81,7555,1.07,17_lgtbi_barcelona_lona_vox
+2023,18,18_girona_gay_rock_cine,84,7555,1.11,18_girona_gay_rock_cine
+2023,19,19_barcelona_psc_collboni_partido,59,7555,0.78,19_barcelona_psc_collboni_partido
+2023,20,20_premio_cine_festival_premios,48,7555,0.64,20_premio_cine_festival_premios
+2023,21,21_matrimonio_supremo_florida_tribunal,16,7555,0.21,Matrimonio igualitario en Estados Unidos
+2023,22,22_taiwán_matrimonio_mismo sexo_asia,6,7555,0.08,Matrimonio igualitario en Taiwán
+2023,23,23_ejército_trump_obama_transgénero,22,7555,0.29,23_ejército_trump_obama_transgénero
+2023,24,24_atletas_atletismo_transgénero_competir,96,7555,1.27,Personas trans en el deporte
+2023,25,25_padrino_salinas_iglesia_obispado,9,7555,0.12,Iglesia y controversias religiosas
+2023,26,26_nombre_cambio nombre_cambio_niña,9,7555,0.12,Cambio de nombre e infancia trans
+2023,27,27_transexual_policía_paloma_mujer,24,7555,0.32,27_transexual_policía_paloma_mujer
+2023,28,28_especies_comportamiento_machos_individuos,64,7555,0.85,28_especies_comportamiento_machos_individuos
+2023,29,29_sangre_donar_donar sangre_homosexuales,7,7555,0.09,Donación de sangre y homosexualidad
+2023,30,30_uganda_museveni_homosexualidad_ley,55,7555,0.73,30_uganda_museveni_homosexualidad_ley
+2023,31,31_agresión_pareja_observatorio_pareja gay,12,7555,0.16,31_agresión_pareja_observatorio_pareja gay
+2023,32,32_iglesia_vaticano_papa_sacerdote,8,7555,0.11,Iglesia y Vaticano
+2023,33,33_protocolo_educativa_centros_identidad,6,7555,0.08,33_protocolo_educativa_centros_identidad
+2023,34,34_turismo_fitur_destino_oferta,25,7555,0.33,34_turismo_fitur_destino_oferta
+2023,35,35_vox_pp_lgtbi_investidura,38,7555,0.5,35_vox_pp_lgtbi_investidura
+2023,36,36_literatura_novela_libro_stuart,19,7555,0.25,36_literatura_novela_libro_stuart
+2023,37,37_trabajo_personas_laboral_empresas,51,7555,0.68,37_trabajo_personas_laboral_empresas
+2023,38,38_psoe_lgtbi_derechos_vox,64,7555,0.85,38_psoe_lgtbi_derechos_vox
+2023,39,39_marruecos_marroquí_rabat_marroquíes,9,7555,0.12,39_marruecos_marroquí_rabat_marroquíes
+2023,40,40_miss_jenner_caitlyn_ángela,12,7555,0.16,40_miss_jenner_caitlyn_ángela
+2023,41,41_jerusalén_israelí_israel_marcha,38,7555,0.5,41_jerusalén_israelí_israel_marcha
+2023,42,42_estambul_turca_turquía_policía,4,7555,0.05,42_estambul_turca_turquía_policía
+2023,43,43_madurez_menores_registro_tribunal,3,7555,0.04,43_madurez_menores_registro_tribunal
+2023,44,44_agresión_transexual_policía_odio,24,7555,0.32,44_agresión_transexual_policía_odio
+2023,45,45_bendición_iglesia_papa_bendiciones,59,7555,0.78,45_bendición_iglesia_papa_bendiciones
+2023,46,46_vox_cogam_fiscalía_podemos,4,7555,0.05,46_vox_cogam_fiscalía_podemos
+2023,47,47_cortes_abogados cristianos_castilla león_cristianos,75,7555,0.99,47_cortes_abogados cristianos_castilla león_cristianos
+2023,48,48_reproducción_asistida_reproducción asistida_mujeres,6,7555,0.08,48_reproducción_asistida_reproducción asistida_mujeres
+2023,49,49_mr gay_mr_gay_gay pride,17,7555,0.23,49_mr gay_mr_gay_gay pride
+2023,50,50_circuit_barcelona_festival_circuit festival,19,7555,0.25,50_circuit_barcelona_festival_circuit festival
+2023,51,51_ley_madrid_ayuso_trans,72,7555,0.95,51_ley_madrid_ayuso_trans
+2023,52,52_028_servicio_atención_residencia,73,7555,0.97,52_028_servicio_atención_residencia
+2023,53,53_italia_uniones_senado_proyecto,14,7555,0.19,53_italia_uniones_senado_proyecto
+2023,54,54_deporte_declaración_declaración institucional_senador,22,7555,0.29,54_deporte_declaración_declaración institucional_senador
+2023,55,55_ayuso_madrid_pp_leyes,41,7555,0.54,55_ayuso_madrid_pp_leyes
+2023,56,56_nigeria_asilo_país_camerún,19,7555,0.25,56_nigeria_asilo_país_camerún
+2023,57,57_burriana_libros_biblioteca_censura,63,7555,0.83,57_burriana_libros_biblioteca_censura
+2023,58,58_almodóvar_cannes_extraña_pedro,62,7555,0.82,58_almodóvar_cannes_extraña_pedro
+2023,59,59_itziar_letonia_castro_actriz,53,7555,0.7,59_itziar_letonia_castro_actriz
+2023,60,60_ibiza_40 aniversario_carnaval_calles centro,17,7555,0.23,60_ibiza_40 aniversario_carnaval_calles centro
+2023,61,61_almeida_bandera_cibeles_bandera lgtbi,36,7555,0.48,61_almeida_bandera_cibeles_bandera lgtbi
+2023,62,62_detenido_yihadistas_yihadista_palmas,27,7555,0.36,62_detenido_yihadistas_yihadista_palmas
+2023,63,63_irlanda_matrimonio_referéndum_dublín,1,7555,0.01,Referéndum de matrimonio en Irlanda
+2023,64,64_acoso_ciento_jóvenes_escolar,11,7555,0.15,64_acoso_ciento_jóvenes_escolar
+2023,65,65_metro_agresión_barcelona_guardia,9,7555,0.12,65_metro_agresión_barcelona_guardia
+2023,66,66_trans_transgénero_mujer_belarra,21,7555,0.28,66_trans_transgénero_mujer_belarra
+2023,67,67_papa_francisco_pontífice_plasencia,12,7555,0.16,67_papa_francisco_pontífice_plasencia
+2023,68,68_electoral_junta electoral_lona_junta,50,7555,0.66,68_electoral_junta electoral_lona_junta
+2023,69,69_brunéi_sultán_lapidación_adulterio,8,7555,0.11,69_brunéi_sultán_lapidación_adulterio
+2023,70,70_00_concierto_100_30,28,7555,0.37,70_00_concierto_100_30
+2023,71,71_pecado_papa_francisco_delito,49,7555,0.65,71_pecado_papa_francisco_delito
+2023,72,72_terapias_euros_multa_coach,10,7555,0.13,72_terapias_euros_multa_coach
+2023,73,73_duval_sumar_chicago_feminismo,33,7555,0.44,73_duval_sumar_chicago_feminismo
+2023,74,74_homosexualidad_terapia_libro_em,3,7555,0.04,74_homosexualidad_terapia_libro_em
+2023,75,75_actor_contado_silvestre_pueblo,41,7555,0.54,75_actor_contado_silvestre_pueblo
+2023,76,76_courage_animales_toledo_archidiócesis,27,7555,0.36,76_courage_animales_toledo_archidiócesis
+2023,77,77_bandera_ayuntamiento_lgtbi_arcoíris,36,7555,0.48,77_bandera_ayuntamiento_lgtbi_arcoíris
+2023,78,78_gay games_games_valència_2026,41,7555,0.54,78_gay games_games_valència_2026
+2023,79,79_colegios_vox_información_formativas,2,7555,0.03,79_colegios_vox_información_formativas
+2023,80,80_españoles_iglesias_rodó_países,37,7555,0.49,80_españoles_iglesias_rodó_países
+2023,81,81_paloma río_río_gimnasia_paloma,20,7555,0.26,81_paloma río_río_gimnasia_paloma
+2023,82,82_modelo_secret_marca_victoria,6,7555,0.08,82_modelo_secret_marca_victoria
+2023,83,83_madrid_orgullo_cogam_ciudadanos,8,7555,0.11,83_madrid_orgullo_cogam_ciudadanos
